@@ -1,0 +1,11 @@
+body{
+    height: 100vh;
+    margin: 0;
+}
+.whiteTheme{
+    background-color: white;
+
+}
+.greenTheme{
+    background-color: green;
+}
